@@ -1,0 +1,3 @@
+import os
+for i in range(1,100):
+    os.rename(f"automate folder creation/Folder {i}", f"automate folder creation/tutorial {i}")
